@@ -1,7 +1,6 @@
-# snake
+# Pygame Snake
 
-The images are to be stored in an <code>image/</code> subfolder<br>
-Command to launch the game: <code>python3 snake1.3.py</code>
+Command to launch the game: <code>python3 snake.py</code>
 
 Eat the fruits to get more points, while avoiding the walls and the bombs<br>
 Press the space key to pause the game
